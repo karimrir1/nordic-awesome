@@ -23,4 +23,4 @@ beautiful.init(os.getenv("HOME") .. "/.config/awesome/themes/nordic-awesome/them
 ```
 
 ### Screenshot
-background.png
+/background.png
