@@ -21,3 +21,6 @@ Go into your rc.lua and point it to the theme.lua
 ```
 beautiful.init(os.getenv("HOME") .. "/.config/awesome/themes/nordic-awesome/theme.lua")
 ```
+
+### Screenshot
+background.png
